@@ -41,10 +41,8 @@ recipe-ideas/
 Clone the repo:
 
 ```bash
-git clone https://github.com/your-username/recipe-ideas.git
+git clone https://github.com/abhinaya292/recipe-ideas.git
 cd recipe-ideas
-
-## ⚡ Getting Started
 
 
 ```
