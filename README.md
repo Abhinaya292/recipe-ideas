@@ -11,7 +11,7 @@ Users can search for recipes by name or ingredient, filter results, and explore 
 - 🧾 Filter panel for refining results
 - 📱 Fully responsive UI
 - ⚡ Fast build using Vite
-- 🎨 Clean design with Tailwind CSS
+- 🎨 Clean design with CSS
 
 ---
 
