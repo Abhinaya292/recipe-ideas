@@ -15,6 +15,12 @@ Users can search for recipes by name or ingredient, filter results, and explore 
 
 ---
 
+## 🚀 Live Demo
+You can try the project directly on **CodeSandbox**:  
+👉 [Recipe Ideas on CodeSandbox] (https://codesandbox.io/p/github/Abhinaya292/recipe-ideas)
+
+---
+
 ## 🛠 Tech Stack
 
 - React (Vite)
@@ -36,16 +42,6 @@ recipe-ideas/
 
 ---
 
-## ⚡ Getting Started
-
-Clone the repo:
-
-```bash
-git clone https://github.com/abhinaya292/recipe-ideas.git
-cd recipe-ideas
-
-
-```
 ## Install dependencies:
 - npm install
 - npm i react-router-dom
